@@ -1,0 +1,2 @@
+mvc model
+shortid(depricated) therefore use nanoid - package from npmjs  
